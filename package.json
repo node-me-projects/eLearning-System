@@ -1,0 +1,25 @@
+{
+  "name": "elearning-system",
+  "version": "1.0.0",
+  "description": "eleatnin\u001b[D\u001b[D\u001b[r\u001b[C\u001b[C\u001b[C\u001b[g-system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-me-projects/eLearning-System.git"
+  },
+  "author": "AmirHaytham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-me-projects/eLearning-System/issues"
+  },
+  "homepage": "https://github.com/node-me-projects/eLearning-System#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
